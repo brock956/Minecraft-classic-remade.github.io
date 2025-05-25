@@ -1,1 +1,1 @@
-# Minecraft-classic-remade.github.io
+This project is a historical recreation of the Minecraft Classic 0.30 web applet. Minecraft and all related assets are property of Mojang Studios and Microsoft. No proprietary files are distributed. This is for educational and archival purposes only.
